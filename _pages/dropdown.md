@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: 
 title: People
 description: 

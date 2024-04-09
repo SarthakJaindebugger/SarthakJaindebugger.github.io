@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 permalink: /teaching/
 title: Flaura & Fauna
 description: Here is a glimpse of my nature walks, showcasing my love for capturing moments.
