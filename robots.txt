@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SarthakJaindebugger.github.io/sitemap.xml
+Sitemap: https://sarthakjaindebugger.github.io/sitemap.xml
