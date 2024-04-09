@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /cv/
-title: People
+title: CV
 description: 
 nav: true
 nav_order: 4
