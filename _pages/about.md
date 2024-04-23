@@ -18,9 +18,12 @@ news: false
 selected_papers: false
 social: true
 latest_posts:
+  - date: "April 16, 2024"
+    link: "https://www.linkedin.com/posts/creatersarthakjain_computervision-ai-mit-activity-7188588032936030208-8mME?utm_source=share&utm_medium=member_desktop"
+    description: "Webinar on Quantum Computing by IIT Madras"
   - date: "March 7, 2024"
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7167929915160416257/"
-    description: "Webinar on Quantum Computing by IIT Madras"
+    description: "Webinar on Computer Vision by Massachusetts Institute of Technology"
   - date: "February 6, 2024"
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7158450504539283457/"
     description: "Webinar on Human-Robot Interaction by Stanford University"
