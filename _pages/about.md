@@ -18,6 +18,9 @@ news: false
 selected_papers: false
 social: true
 latest_posts:
+ - date: "April 24, 2024"
+    link: "https://www.linkedin.com/posts/creatersarthakjain_ucsandiego-education-innovation-activity-7188963899843440640-TimS?utm_source=share&utm_medium=member_desktop"
+    description: "UC San Deigo International Event at Taj Palace, New Delhi"
   - date: "April 16, 2024"
     link: "https://www.linkedin.com/posts/creatersarthakjain_computervision-ai-mit-activity-7188588032936030208-8mME?utm_source=share&utm_medium=member_desktop"
     description: "Webinar on Computer Vision by Massachusetts Institute of Technology"
