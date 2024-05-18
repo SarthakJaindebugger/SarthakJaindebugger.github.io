@@ -18,6 +18,9 @@ news: false
 selected_papers: false
 social: true
 latest_posts:
+  - date: "May 11, 2024"
+    link: "https://www.linkedin.com/posts/creatersarthakjain_ai-cybersecurity-innovation-activity-7197480519066951680-9lph?utm_source=share&utm_medium=member_desktop"
+    description: "International Conference on AI in Cyber Security"
   - date: "April 24, 2024"
     link: "https://www.linkedin.com/posts/creatersarthakjain_ucsandiego-education-innovation-activity-7188963899843440640-TimS?utm_source=share&utm_medium=member_desktop"
     description: "UC San Deigo International Event at Taj Palace, New Delhi"
