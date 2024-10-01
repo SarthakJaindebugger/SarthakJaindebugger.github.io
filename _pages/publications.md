@@ -2,12 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Coming soon...
+description: 
 nav: true
 nav_order: 2
 ---
 
-## Publications
 
 1. **Sarthak Jain\***, Orchid Chetia Phukan\*, Arun Balaji Buduru, Rajesh Sharma, "The Reasonable Effectiveness of Speaker Embeddings for Violence Detection." In *Interspeech 2024*. [Link](https://www.isca-archive.org/interspeech2024/jain24b_interspeech.html)
    
