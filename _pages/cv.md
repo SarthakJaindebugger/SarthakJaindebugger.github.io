@@ -10,6 +10,10 @@ nav_order: 2
 
 **Research Experience**
 
+- **Sony July 2024 (Ongoing)**
+  Research Internship | Advisor: Dr. Kumud Tripathi
+  Addressing challenges in Multilingual Voice Activity Detection (VAD) and speaker overlap detection using state-of-the-art (SOTA) foundation models, speech-to-speech translation models, Pyannote architecture, and tools like Audacity
+
 - **University of South Carolina (AIISC), USA**  
   *Mar 2024 (Ongoing)*  
   Undergraduate Researcher | Advisor: Dr. Amitava Das  
