@@ -38,12 +38,12 @@ latest_posts:
     description: "Webinar on Snow Leopard Conservation by WWF"  
 ---
 
-A flora and fauna lover, with deep research interest in Machine Learning domain of **Natural Langauge Processing (NLP)**. I work broadly in the areas of Automatic Speech Recognition (ASR), Large Language Models (LLMs), Signal Processing and Machine Learning Operations (MLOps). I'm also fascinated in exploring the areas of Computer Vision, Embodied AI, Robotics & Multi Agent Systems.
+A flora and fauna lover, with deep research interest in Machine Learning domain of **Signal/Speech Processing**. I work broadly in the areas of Automatic Speech Recognition (ASR), Deepfake Detection, Large Language Models (LLMs), Natural Language Processing, Foundation Models and Machine Learning Operations (MLOps). I'm also fascinated in exploring the areas of Computer Vision, Embodied AI, Robotics & Multi Agent Systems.
 
-Beyond technical stuff, I love hitting the gym, write poetry & stories, experiment with music & technology by creating short tunes & lyric less musics. Also, when I unwind, I'm drawn to Netflix webseries & films for entertainment.
+Beyond technical stuff, I love hitting the gym, work actively with ISCA-SAC podcast team as a host, sound mixing & editing. Also, when I unwind, I'm drawn to Netflix webseries & films for entertainment.
 
 I am **open to collaborating** with individuals/ groups/ labs who share similar
- research interests, with the aim of working on a novel project and subsequently publishing a paper in a core A/A* conference or a reputable journal.
+ research interests, with the aim of working on a novel project and subsequently publishing a paper in a core A/A* conference like Interspeech, ICASSP, NeurIPS, ACL, NAACl etc or a reputable journal.
 
 I can be reached at **sarthakjainssjj@gmail.com** & for urgent matters, please use **shubh2002jain@gmail.com**.
 
